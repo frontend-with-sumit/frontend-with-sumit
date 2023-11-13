@@ -9,7 +9,7 @@ I am a MERN stack developer
 * 🌍  I'm based in Gurugram, India
 * ✉️  You can contact me at [sumit.sk8020@gmail.com](mailto:sumit.sk8020@gmail.com)
 * 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on frontend, backend projects
 
 <a href="https://www.github.com/frontend-with-sumit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/frontend-with-sumit?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a>
