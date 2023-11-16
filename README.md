@@ -1,7 +1,7 @@
 Hi 👋 My name is Sumit Kumar
 ============================
 
-Full Stack Developer (MERN)
+Front End Developer (ReactJS)
 --------------------
 
 I am a MERN stack developer
@@ -29,10 +29,3 @@ src="https://img.shields.io/github/followers/frontend-with-sumit?logo=github&sty
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/frontend-with-sumit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=frontend-with-sumit&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/frontend-with-sumit/promptopia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frontend-with-sumit&repo=promptopia&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/frontend-with-sumit/game-hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frontend-with-sumit&repo=game-hub&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/frontend-with-sumit/rename-file" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frontend-with-sumit&repo=rename-file&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/frontend-with-sumit/csv-to-file" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frontend-with-sumit&repo=csv-to-file&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a></div>
-
