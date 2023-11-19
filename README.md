@@ -1,4 +1,4 @@
-Hi 👋 My name is Sumit Kumar
+Hi 👋 My name is Sumit
 ============================
 
 Front End Developer (ReactJS)
