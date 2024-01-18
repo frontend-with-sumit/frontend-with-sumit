@@ -1,10 +1,10 @@
 Hi 👋 My name is Sumit
 ============================
 
-Front End Developer (ReactJS)
+Senior Front End Developer (ReactJS)
 --------------------
 
-I am a MERN stack developer
+I am a Front end developer
 
 * 🌍  I'm based in Gurugram, India
 * ✉️  You can contact me at [sumit.sk8020@gmail.com](mailto:sumit.sk8020@gmail.com)
